@@ -62,4 +62,8 @@ its sum on each processor.
 processor by using MPI_Reduce to obtain the global sum
 
 ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_3.jpg)
-[link text itself]: http://www.reddit.com
+
+Referecnces
+
+1.  https://computing.llnl.gov/tutorials/parallel_comp/
+2.  https://computing.llnl.gov/tutorials/openMP/
