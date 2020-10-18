@@ -35,7 +35,11 @@ N = number of processors and
 
 S = serial fraction
 
-These code were tested on [Discovery]<https://rc.northeastern.edu/>
+These code were tested on 
+
+Discovery - https://rc.northeastern.edu/
+
+
 
 The output 
 
@@ -58,3 +62,4 @@ its sum on each processor.
 processor by using MPI_Reduce to obtain the global sum
 
 ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_3.jpg)
+[link text itself]: http://www.reddit.com
