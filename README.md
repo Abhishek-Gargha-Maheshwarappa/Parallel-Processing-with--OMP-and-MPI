@@ -10,9 +10,26 @@
 # **Parallel Programming Models**
 
 There are several parallel programming models in common use:
-•	Shared Memory (without threads)
-•	Threads
-•	Distributed Memory / Message Passing
-•	Data Parallel
-•	Hybrid
-•	SPMD and MPMD
+1.  Shared Memory (without threads)
+2.  Threads
+3.  Distributed Memory / Message Passing
+4.  Data Parallel
+5.  Hybrid
+6.  SPMD and MPMD
+
+# **Amdahl's Law**
+
+It states that potential program speedup is defined by the fraction of code (P) that can be parallelized:
+
+# Speedup = **<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{(1-p)}">**
+
+The number of processors performing the parallel fraction of work, the relationship can be modeled by:
+
+Speedup= **<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{((P/N)+S)}">**
+
+### where 
+P = parallel fraction, 
+
+N = number of processors and 
+
+S = serial fraction.
