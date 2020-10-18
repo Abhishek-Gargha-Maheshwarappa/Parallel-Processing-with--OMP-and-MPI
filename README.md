@@ -39,7 +39,22 @@ These code were tested on [Discovery]<https://rc.northeastern.edu/>
 
 The output 
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/Hw1-part2-output.JPG)
+Output of 
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Recommendation-systems/blob/master/matrix.JPG)
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Recommendation-systems/blob/master/matrix.JPG)
+## **part1.c** -   using OpenMP routines 
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_1.jpg)
+
+## **part2.c** - using OpenMP routines
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/Output_2.jpg)
+
+## **part3.c** -  serial program of a dot product for two vectors
+
+1.  Each MPI task performs the dot product of a and b based on the serial code to obtain
+its sum on each processor.
+
+2.  the dot product on each processor, perform a summation of results from each
+processor by using MPI_Reduce to obtain the global sum
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_3.jpg)
