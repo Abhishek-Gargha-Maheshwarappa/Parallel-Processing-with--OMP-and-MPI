@@ -1,4 +1,5 @@
-# Parallel-Processing-with--OMP-and-MPI
+# **Parallel-Processing-with--OMP-and-MPI**
+
 # **Several reasons to use parallel computing**
 
 1.	Save time/money
