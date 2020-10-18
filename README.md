@@ -43,11 +43,11 @@ Output of
 
 ## **part1.c** -   using OpenMP routines 
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_1.jpg)
+![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_1.jpg)
 
 ## **part2.c** - using OpenMP routines
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/Output_2.jpg)
+![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/Output_2.jpg)
 
 ## **part3.c** -  serial program of a dot product for two vectors
 
@@ -57,4 +57,4 @@ its sum on each processor.
 2.  the dot product on each processor, perform a summation of results from each
 processor by using MPI_Reduce to obtain the global sum
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_3.jpg)
+![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/output_3.jpg)
