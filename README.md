@@ -32,4 +32,13 @@ P = parallel fraction,
 
 N = number of processors and 
 
-S = serial fraction.
+S = serial fraction
+
+These code were tested on [Discovery]<https://rc.northeastern.edu/>
+
+The output 
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Parallel-Processing-with--OMP-and-MPI/blob/main/output_screenshots/Hw1-part2-output.JPG)
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Recommendation-systems/blob/master/matrix.JPG)
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Recommendation-systems/blob/master/matrix.JPG)
