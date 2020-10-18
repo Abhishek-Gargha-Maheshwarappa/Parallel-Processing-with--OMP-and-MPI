@@ -7,3 +7,12 @@
 4.	Take Advantage of Non – local Resources that is using compute resources on a wide area network, or even the internet when local compute resources are scarce or insufficient
 5.	Make better use of Underlying Parallel Hardware
 
+# **Parallel Programming Models**
+
+There are several parallel programming models in common use:
+•	Shared Memory (without threads)
+•	Threads
+•	Distributed Memory / Message Passing
+•	Data Parallel
+•	Hybrid
+•	SPMD and MPMD
